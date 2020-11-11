@@ -6,6 +6,7 @@ public class Class1 extends BaseClass{
 	
 	
 	//This is a comment1
+	//This is a comment2
 	
 	@Test
 	public void test1() {
