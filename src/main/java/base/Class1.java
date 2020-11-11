@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 public class Class1 extends BaseClass{
 	
 	
+	//This is a comment1
+	
 	@Test
 	public void test1() {
 		logger = extent.createTest("Class 1 Test 1");
